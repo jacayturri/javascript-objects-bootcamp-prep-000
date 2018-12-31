@@ -1,4 +1,4 @@
 var playlist = {
-  artist names: 'song titles'
+  artistnames: 'song titles'
   
 };
